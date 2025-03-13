@@ -121,12 +121,7 @@
 - Yorum sistemi geliştirildi
 - Arama özelliği eklendi
 
-## 🤝 Destek
 
-Herhangi bir sorun veya öneriniz için:
-- 📧 E-posta: destek@blogsr10.com
-- 💬 GitHub Issues
-- 📝 WordPress.org forum
 
 ## 📜 Lisans
 
